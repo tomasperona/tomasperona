@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Perona</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Footsell](https://tomasperona.github.io/footsell-coderhouse-project/index.html)
+- 🔭 I’m currently working on [Volkswagen](https://tomasperona.github.io/volkswagen-landing-page/)
 
 - 📫 How to reach me **tomas.perona.t@gmail.com**
 
